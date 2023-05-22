@@ -1,6 +1,6 @@
 <h1>Pop'n Music - Append Discs 3 and 4</h1>
 <p align="center"><img width="521" height="188" src="https://github.com/DerekPascarella/PopnMusicAppendDiscs-StandalonePatchDreamcast/blob/main/pop_n_music_append_disc_title_screens.png?raw=true"></p>
-Patches that allow "Append Discs" 3 and 4 to boot as standalone games, rather than requiring they be launched first with Pop'n Music 2.
+Patches that allow "Append Discs" 3 and 4 to boot as standalone games, rather than requiring they be launched first with "Pop'n Music 2".
 <br><br>
 
 <h2>Download Patches</h2>
